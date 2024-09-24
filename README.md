@@ -78,6 +78,25 @@
       height="40"
     />
   </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+
+ <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img
+      src="https://static-00.iconduck.com/assets.00/jira-icon-1024x1024-ivkx0tam.png"
+      alt="webpack"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -87,14 +106,6 @@
     />
   </a>
   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
   
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
@@ -147,4 +158,5 @@
       height="40"
     />
   </a>
+
 </p>
