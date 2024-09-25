@@ -1,4 +1,3 @@
-![logo](https://github.com/RiyazR2/RiyazR2/blob/main/Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Riyaz Pathan</h1>
 <h3 align="center">JavaScript & React Developer | 2+ years of experience | Passionate about modern web tech.</h3>
 
