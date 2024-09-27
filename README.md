@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **riyazpathan193.rp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hl6D5uBkqVHedCN0Yu1vJ-GvngV4N35m/view](https://drive.google.com/file/d/1hl6D5uBkqVHedCN0Yu1vJ-GvngV4N35m/view)
+<!--- - 📄 Find my resume [https://drive.google.com/file/d/1hl6D5uBkqVHedCN0Yu1vJ-GvngV4N35m/view](https://drive.google.com/file/d/1hl6D5uBkqVHedCN0Yu1vJ-GvngV4N35m/view) ---> 
 
 - ⚡ Fun fact **"My favorite debugging technique is taking a break and coming back with fresh eyes!"**
 
