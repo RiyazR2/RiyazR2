@@ -1,4 +1,3 @@
-<!--- <h1 align="center">Hi 👋, I'm Riyaz Pathan</h1> --->
 <!-- Bouncing Name Animation -->
 <p align="center">
   <a href="https://github.com/RiyazR2">
@@ -7,8 +6,8 @@
 </p>
 
 <!-- Fade-in Skills Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=093c79&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+JavaScript+%26+React+Developer;🚀+Building+dynamic+web+applications!;✨+Passionate+about+coding!;🕵️‍♀️+Always+exploring+new+tech!" alt="Skills Typing SVG" />
+<p align="center"> <strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=093c79&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+JavaScript+%26+React+Developer;🚀+Building+dynamic+web+applications!;✨+Passionate+about+coding!;🕵️‍♀️+Always+exploring+new+tech!" alt="Skills Typing SVG" /> </strong>
 </p>
 
 <!-- Optional: Add a GIF for more animation -->
@@ -20,29 +19,7 @@ I'm a passionate JavaScript and React Developer, creating dynamic and engaging w
 
 ---
 
-<img align="right" alt="Coding Gig" width = "400px" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
-
-- 🏢 I’m currently working in **Mphasis Limited**
-
-- 👨‍💻 Dive into my portfolio: [https://portfolior2.netlify.app/](https://portfolior2.netlify.app/)
-
-- 💬 Ask me about **React, JavaScript**
-
-- 📫 How to reach me **riyazpathan193.rp@gmail.com**
-
-<!--- - 📄 Find my resume [https://drive.google.com/file/d/1hl6D5uBkqVHedCN0Yu1vJ-GvngV4N35m/view](https://drive.google.com/file/d/1hl6D5uBkqVHedCN0Yu1vJ-GvngV4N35m/view) ---> 
-
-- ⚡ Fun fact **"My favorite debugging technique is taking a break and coming back with fresh eyes!"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/riyazr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyazr2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/riyazr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyazr2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:14993244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:14993244" height="30" width="40" /></a>
-<a href="https://discord.gg/riyazr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="riyazr2" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -178,3 +155,40 @@ I'm a passionate JavaScript and React Developer, creating dynamic and engaging w
   </a>
 
 </p>
+
+---
+
+<img align="right" alt="Coding Gig" width = "400px" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+
+- 🏢 I’m currently working in **Mphasis Limited**
+
+- 👨‍💻 Portfolio: [https://portfolior2.netlify.app/](https://portfolior2.netlify.app/)
+
+<!---
+- 💬 Ask me about **React, JavaScript**
+
+- 📫 How to reach me **riyazpathan193.rp@gmail.com**
+
+ - 📄 Find my resume [https://drive.google.com/file/d/1hl6D5uBkqVHedCN0Yu1vJ-GvngV4N35m/view](https://drive.google.com/file/d/1hl6D5uBkqVHedCN0Yu1vJ-GvngV4N35m/view)
+
+- ⚡ Fun fact **"My favorite debugging technique is taking a break and coming back with fresh eyes!"**
+--->
+
+<br />
+
+#
+
+<br/>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riyazr2)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riyazr2) 
+
+
+<!--- <h3 align="left">Connect with me:</h3> 
+<p align="center">
+ 
+<a href="https://twitter.com/riyazr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyazr2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riyazr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyazr2" height="30" width="40" /></a>
+</p>
+--->
