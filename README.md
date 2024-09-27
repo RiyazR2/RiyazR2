@@ -1,5 +1,24 @@
-<h1 align="center">Hi 👋, I'm Riyaz Pathan</h1>
-<h3 align="center">JavaScript & React Developer | 2+ years of experience | Passionate about modern web tech.</h3>
+<!--- <h1 align="center">Hi 👋, I'm Riyaz Pathan</h1> --->
+<!-- Bouncing Name Animation -->
+<p align="center">
+  <a href="https://github.com/RiyazR2">
+    <img src="https://img.shields.io/badge/Riyaz%20Pathan-%2300FF00?style=for-the-badge&logo=github&logoColor=white" alt="Riyaz" />
+  </a>
+</p>
+
+<!-- Fade-in Skills Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=093c79&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+JavaScript+%26+React+Developer;🚀+Building+dynamic+web+applications!;✨+Passionate+about+coding!;🕵️‍♀️+Always+exploring+new+tech!" alt="Skills Typing SVG" />
+</p>
+
+<!-- Optional: Add a GIF for more animation -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z5b2hlc3B1bWZlMjJudmJ5cDdzajU0MXYwMmR2MndvZm8zNHZyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="65%" height="120px">
+</p>
+
+I'm a passionate JavaScript and React Developer, creating dynamic and engaging web applications. I love building projects from scratch, starting with planning and designing, all the way through to solving real-world challenges with code. My goal is to create meaningful solutions that enhance user experiences and drive innovation.
+
+---
 
 <img align="right" alt="Coding Gig" width = "400px" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
