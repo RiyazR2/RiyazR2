@@ -6,9 +6,13 @@
 </p>
 
 <!-- Fade-in Skills Animation -->
-<p align="center"><strong>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=093c79&center=true&vCenter=true&width=550&height=50&lines=👨‍💻+Frontend+Developer+%7C+React.js+%26+Next.js;🚀+2%2B+Years+Experience+in+Modern+Web+Apps;✨+Passionate+about+Clean+Code+%26+UI%2FUX;🕵️‍♂️+Exploring+New+Tech+Everyday!" alt="Typing SVG" />
-</strong></p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&center=true&vCenter=true&width=780&height=45&color=00FF00&lines=Frontend+Developer+%7C+React.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;2%2B+Years+Building+Scalable+Web+Apps;Redux+%E2%80%A2+Tailwind+CSS+%E2%80%A2+RESTful+APIs+%E2%80%A2+NextAuth.js"
+    alt="Typing SVG"
+  />
+</p>
+
 
 <!-- Optional: Add a GIF -->
 <p align="center">
