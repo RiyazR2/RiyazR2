@@ -52,7 +52,7 @@ I’m **Riyaz Pathan**, a passionate **Frontend Developer** with **2 years of ex
 </p>
 
 ---
-
+<!--
 <img align="right" alt="Coding GIF" width="400px" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
 ### 📌 Highlights
@@ -61,7 +61,7 @@ I’m **Riyaz Pathan**, a passionate **Frontend Developer** with **2 years of ex
 - 🧾 Designed and validated forms using **Formik + Yup/Zod**  
 - ⚡ Improved performance with **pagination, lazy loading, and React.memo**  
 - ✅ Wrote **unit & integration tests** using **Jest + React Testing Library**  
-
+-->
 ---
 
 ### 🌍 Connect with Me  
