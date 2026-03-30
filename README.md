@@ -1,73 +1,108 @@
-<!-- Bouncing Name Animation -->
-<p align="center">
-  <a href="https://github.com/RiyazR2">
-    <img src="https://img.shields.io/badge/Riyaz%20Pathan-%2300FF00?style=for-the-badge&logo=github&logoColor=white" alt="Riyaz Pathan" />
-  </a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Riyaz+Pathan;React+Frontend+Developer;2%2B+Years+of+Production+Experience" alt="Typing SVG" />
+
+<p>
+  <a href="https://linkedin.com/in/riyazr2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:riyazpathan193.rp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RiyazR2&style=for-the-badge&color=58A6FF" />
 </p>
 
-<!-- Fade-in Skills Animation -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&center=true&vCenter=true&width=780&height=45&color=00FF00&lines=Frontend+Developer+%7C+React.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;2%2B+Years+Building+Scalable+Web+Apps;Redux+%E2%80%A2+Tailwind+CSS+%E2%80%A2+RESTful+APIs+%E2%80%A2+NextAuth.js"
-    alt="Typing SVG"
-  />
-</p>
-
-
-<!-- Optional: Add a GIF -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z5b2hlc3B1bWZlMjJudmJ5cDdzajU0MXYwMmR2MndvZm8zNHZyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="65%" height="120px">
-</p>
+</div>
 
 ---
 
-### 👋 About Me  
-I’m **Riyaz Pathan**, a passionate **Frontend Developer** with **2 years of experience** building scalable, responsive, and secure web applications.  
-- 🏢 Currently working at **Mphasis Limited (Remote – WFH)**  
-- 👨‍💻 Skilled in **React.js, Next.js, TypeScript, Redux, Tailwind CSS, REST APIs, NextAuth.js**  
-- 🧑‍🔬 Experienced in **Formik + Yup/Zod validation** and **testing with Jest + React Testing Library**  
-- 🚀 Built projects like **NetflixGPT (AI Movie Recommender)**, **FoodieFinder (Restaurant Finder)**, and **Issue Tracker (Jira-like App)**  
-- 🎯 Goal: To craft meaningful solutions that improve **user experience** and **performance**  
-- 🌐 Portfolio: [https://portfolior2.netlify.app/](https://portfolior2.netlify.app/)  
+## 👨‍💻 About Me
+
+- 🏢 **2+ years** as a React Frontend Developer at **Mphasis** (Client: Intas Pharmaceuticals)
+- ⚡ Reduced production bundle size **from 2.5MB → 450KB (82%)** using code splitting & lazy loading
+- 🛠️ Specialized in **React.js, Redux Toolkit, Next.js, TypeScript, Tailwind CSS**
+- 🤖 Built AI-integrated apps using **GPT APIs** and full-stack apps with **Next.js + Prisma**
+- 📬 Open to **Remote Frontend Developer** roles — reach me at **riyazpathan193.rp@gmail.com**
 
 ---
 
-### 🧰 Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://static-00.iconduck.com/assets.00/jira-icon-1024x1024-ivkx0tam.png" alt="Jira" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/> 
-</p>
+## 🚀 Featured Projects
+
+### 🎬 [NetflixGPT – AI Movie Recommender](https://github.com/RiyazR2/NetflixGPT)
+> React.js · Redux Toolkit · Firebase · GPT-3.5 Turbo · TMDB API · Tailwind CSS
+
+- AI-powered movie search using GPT-3.5 Turbo
+- Firebase authentication with secure login/signup
+- Debounced search & memoization for performance
+- Fully responsive UI
+
+**[🔗 Live Demo](https://gptflixr2.netlify.app)**
 
 ---
-<!--
-<img align="right" alt="Coding GIF" width="400px" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
-### 📌 Highlights
-- 🖥️ Built **enterprise-grade UI components** at *Mphasis* for a **Task Management Dashboard** (Fortune 500 client)  
-- 🔐 Integrated **NextAuth.js** for secure role-based authentication  
-- 🧾 Designed and validated forms using **Formik + Yup/Zod**  
-- ⚡ Improved performance with **pagination, lazy loading, and React.memo**  
-- ✅ Wrote **unit & integration tests** using **Jest + React Testing Library**  
--->
----
+### 🍽️ [FoodieFinder – Restaurant Discovery App](https://github.com/RiyazR2/Foodie-Food)
+> React.js · Redux Toolkit · React Router · Custom Hooks · Swiggy API · Tailwind CSS
 
-### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riyazr2)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riyazr2)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolior2.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiyazR2)  
+- Live restaurant data from Swiggy API
+- Cart management, shimmer loaders, lazy loading
+- Custom hooks for reusable logic
+- Fully responsive across mobile, tablet, desktop
+
+**[🔗 Live Demo](https://foodiefinder2.netlify.app)**
 
 ---
+
+### 🐛 [Issue Tracker – Project Management System](https://github.com/RiyazR2/IssueTracker2)
+> Next.js · Prisma · NextAuth.js · Radix UI · Tailwind CSS · TypeScript
+
+- Full-stack app with Google Sign-In via NextAuth.js
+- Create, edit, assign, filter & sort issues
+- Skeleton loaders & Radix UI components
+
+**[🔗 Live Demo](https://issue-tracker2-two.vercel.app)**
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Testing & Tools**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Backend (Familiar)**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyazR2&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazR2&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyazR2&theme=github-dark-blue&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>Open to remote React/Frontend Developer roles. Let's connect!</i><br/>
+  <a href="mailto:riyazpathan193.rp@gmail.com">riyazpathan193.rp@gmail.com</a> · <a href="https://linkedin.com/in/riyazr2">LinkedIn</a>
+</div>
