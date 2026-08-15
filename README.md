@@ -1,120 +1,150 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Riyaz+Pathan;React+Frontend+Developer;2%2B+Years+of+Production+Experience;AI+Model+Evaluator+%7C+Freelancer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:0EA5E9&height=190&section=header&text=Riyaz%20Pathan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=React%20Frontend%20Developer%20%7C%20AI%20Integration%20%7C%202%2B%20Years%20in%20Production&descAlignY=57&descSize=17" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=760&height=45&lines=React.js+%2B+Redux+Toolkit+%2B+JavaScript+(ES6%2B);Shipped+82%25+bundle+size+reduction+in+production;Building+LLM-powered+React+applications;Open+to+Frontend+%2F+React+Developer+roles" alt="Typing SVG" />
 
 <p>
-  <a href="https://linkedin.com/in/riyazr2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:riyazpathan193.rp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolior2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/RiyazR2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=RiyazR2&style=for-the-badge&color=58A6FF" />
+  <a href="https://portfolior2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/riyazr2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:riyazpathan193.rp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+918657126901"><img src="https://img.shields.io/badge/+91%208657126901-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RiyazR2&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/📍_Pune,_Maharashtra-1E293B?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_2%2B_Years_Experience-1E293B?style=flat-square" />
+  <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-166534?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi, I'm Riyaz
 
-- 🏢 **React Frontend Developer** with **2+ years** at **Mphasis** (Client: **Intas Pharmaceuticals**)
-- 🤖 Currently working as **AI Model Evaluator (Freelance)** — evaluating **100+ AI coding responses/week**
-- 🏥 Built **Hospital Management System (HMS)** - Patient, Appointment, Prescription modules
-- ⚡ **Key Achievement:** Reduced production bundle size **from 2.5MB → 450KB (82%)** using:
-  - Code splitting with React.lazy & Suspense
-  - Tree shaking & dependency optimization
-  - Performance optimization (React.memo, useMemo, useCallback)
-  - Improved load time from **8s → 1.5s**
-- 🛠️ Tech Stack: **React.js, Redux Toolkit, TypeScript, Next.js, Tailwind CSS, MERN Stack**
-- 🎓 **B.Tech in CSE** from A.G. Patil Institute of Technology, Solapur (CGPA: 8.3/10)
-- 📜 Certified: **Namaste React** & **The Complete JavaScript Course (Udemy)**
-- 📍 Based in **Solapur, Maharashtra, India**
-- 📬 Open to **Frontend/React Developer** roles — **riyazpathan193.rp@gmail.com**
+React Frontend Developer with **2+ years of production experience** building enterprise applications for the healthcare domain at **Mphasis** (client: **Intas Pharmaceuticals**). I specialize in **React.js, Redux Toolkit, and JavaScript (ES6+)**, and I ship **LLM/AI-powered features** into real React applications using OpenAI and Groq.
 
----
+> **Headline result:** cut a production bundle from **2.5 MB → 450 KB (82% smaller)**, improving load time from **8s → 1.5s** for enterprise healthcare users.
 
-## 💼 Professional Experience
-
-### 🤖 AI Model Evaluator (Freelance)
-
-**Remote | 2025 - 2026**
-
-- 📊 Evaluate **100+ AI coding agent responses per week** on JavaScript/TypeScript frontend tasks
-- 🔍 Assess code correctness, reasoning depth, instruction-following, and hallucination detection
-- 🐛 Review bug fixing, refactoring, and feature development scenarios
-- ⚡ Provide detailed feedback on AI-generated code quality and best practices
-
----
-
-### ⚛️ React Frontend Developer @ Mphasis
-
-**Client: Intas Pharmaceuticals | 2023 - 2025 (2+ years)**
-
-**Project:** Hospital Management System (HMS)
-
-**Key Contributions:**
-
-- ✅ Reduced bundle size from **2.5MB → 450KB (82%)** using code splitting and lazy loading
-- ✅ Minimized re-renders with **React.memo** and **useCallback**, improving load time
-- ✅ Built scalable, reusable UI components using **React.js, JavaScript (ES6+)**, and React Hooks
-- ✅ Managed complex state using **Redux Toolkit** (createSlice, useSelector, dispatch)
-- ✅ Integrated secure **REST APIs** using Axios with async/await, handling CRUD operations
-- ✅ Implemented **protected routes** for enterprise user access management
-- ✅ Developed Patient Registration, Appointment Booking, and Prescription Management modules
-
-**Tech Stack:** React.js, Redux Toolkit, JavaScript ES6+, Tailwind CSS, Axios, Git
+|                   |                                                                                            |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| 🏢 **Current**    | AI Model Evaluator (Freelance, Remote) — reviewing **100+ AI coding agent responses/week** |
+| ⚛️ **Core stack** | React.js · Redux Toolkit · JavaScript (ES6+) · Tailwind CSS                                |
+| 🤖 **AI/LLM**     | OpenAI GPT-3.5 · Groq Llama 3.3 70B · Function Calling · Prompt Engineering                |
+| 🧪 **Quality**    | Jest · React Testing Library · ESLint                                                      |
+| 🎓 **Education**  | B.Tech CSE — A.G. Patil Institute of Technology, Solapur (CGPA **8.3/10**)                 |
+| 📬 **Reach me**   | [riyazpathan193.rp@gmail.com](mailto:riyazpathan193.rp@gmail.com)                          |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 [NetflixGPT – AI Movie Recommender](https://github.com/RiyazR2/NetflixGPT)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> React.js · Redux Toolkit · Firebase · GPT-3.5 Turbo · TMDB API · Tailwind CSS · React Router DOM
+### 🎬 NetflixGPT
 
-**Features:**
+**AI-Powered Movie Discovery Platform**
 
-- 🤖 Built a movie recommendation app integrating **GPT-3.5 Turbo** for personalized suggestions
-- 🔐 Implemented Firebase authentication and secure API key management via environment variables
-- 🎥 Integrated TMDB API for real-time movie data
-- ⚡ Applied **debounced search** and **memoization** to reduce redundant API calls and re-renders
-- 🗂️ Managed global state with **Redux Toolkit**
-- 📱 Built fully responsive UI using Tailwind CSS
+[![Live](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=netlify&logoColor=white)](https://gptflixr2.netlify.app/)
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RiyazR2/NetflixGPT)
 
-**[🔗 Live Demo](https://gptflixr2.netlify.app)** | **[📂 GitHub](https://github.com/RiyazR2/NetflixGPT)**
+`React 18` `Redux Toolkit` `OpenAI GPT-3.5` `Firebase Auth` `TMDB API` `OMDb API` `Tailwind CSS` `i18n`
+
+- **LLM function calling** converts natural language into structured filters (genre, year range, rating) with **95% accuracy**
+- **Conversational memory** across multi-turn queries — _"action movies from 2020"_ → _"older ones"_ keeps context
+- **Hybrid TMDB + OMDb architecture** for Hollywood **and** dedicated Bollywood/Indian cinema coverage
+- Mood-based discovery, TMDB similarity engine, **6-language i18n**, Firebase Auth, shimmer loading UI
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ FoodieFinder AI
+
+**AI-Powered Restaurant Discovery Platform**
+
+[![Live](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=netlify&logoColor=white)](https://foodiefinder2.netlify.app/)
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RiyazR2/Foodie-Food)
+
+`React 18` `Redux Toolkit` `Groq Llama 3.3 70B` `Swiggy API` `Jest + RTL` `Parcel` `Tailwind CSS`
+
+- **Smart Search** with Groq's Llama 3.3 70B (JSON mode) parsing _"budget biryani under ₹300"_ into structured filters, with graceful fallback to conventional search
+- **AI restaurant insights**: must-try dishes, peak hours, best occasions, budget tips
+- **AI recipe generator** in English + **6 Indian regional languages** with native script support
+- Redux cart & location slices, custom hooks, glassmorphic responsive UI, **40% faster loads** via session caching
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐛 MERN Issue Tracker
+
+**Full-Stack Issue Management System**
+
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://mern-issue-tracker-app.vercel.app/)
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RiyazR2/MERN_IssueTracker)
+
+`React (Vite)` `Node.js` `Express` `MongoDB Atlas` `Passport.js` `JWT` `Radix UI` `Recharts` `Zod`
+
+- **Google OAuth 2.0 + JWT** auth via Passport.js; public-read dashboard with protected write operations
+- Issue workflow **OPEN → IN PROGRESS → CLOSED**, team assignment, markdown descriptions
+- **React Hook Form + Zod** type-safe validation; **Recharts** analytics dashboard
+- Separate frontend/backend deployed as **Vercel serverless** services with MongoDB Atlas
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+
+**Personal Portfolio Site**
+
+[![Live](https://img.shields.io/badge/Live_Site-0EA5E9?style=flat-square&logo=netlify&logoColor=white)](https://portfolior2.netlify.app/)
+
+`React` `Tailwind CSS` `Dark Mode` `Scroll Reveal`
+
+- Responsive, accessible single-page portfolio with **light/dark theme** context
+- Scroll-reveal animations, case-study style project cards, and a working contact form
+- Fully deployed on Netlify with optimized assets
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🍽️ [FoodieFinder – Restaurant Discovery App](https://github.com/RiyazR2/Foodie-Food)
+## 💼 Experience
 
-> React.js · Redux Toolkit · React Router · Custom Hooks · Swiggy API · Tailwind CSS
+<details open>
+<summary><b>⚛️ React Frontend Developer — Mphasis</b> &nbsp;·&nbsp; <i>Client: Intas Pharmaceuticals</i> &nbsp;·&nbsp; <code>2022 – 2025</code></summary>
 
-**Features:**
+<br/>
 
-- 🍕 Developed fully responsive restaurant discovery app with **live data from Swiggy API**
-- 🔍 Built features including restaurant filters, cuisine search, dynamic menus, and cart management
-- ✨ Implemented shimmer loaders, lazy loading, and code splitting for performance
-- 🗂️ Managed state using **Redux Toolkit slices**
-- 🔧 Encapsulated reusable logic in **custom hooks** (useRestaurantMenu, useOnlineStatus)
-- 📱 Responsive design with Tailwind CSS across mobile, tablet, and desktop
+_Completed structured onboarding and technical training (2022–2023) before being assigned to a live client project (2023–2025)._
 
-**[🔗 Live Demo](https://foodiefinder2.netlify.app)** | **[📂 GitHub](https://github.com/RiyazR2/Foodie-Food)**
+- ⚡ **Reduced bundle size 2.5 MB → 450 KB (~82%)** with code splitting and lazy loading; minimized re-renders using **React.memo** and **useCallback**, improving load time **8s → 1.5s**
+- 🧩 Built and maintained **scalable, reusable UI components** in a modular component architecture using React.js, ES6+, and React Hooks
+- 🗂️ Managed complex application state with **Redux Toolkit** (`createSlice`, `useSelector`, `dispatch`) for predictable flow across multi-step business workflows
+- 🔌 Integrated secure **REST APIs** with **Axios + async/await**, handling CRUD, loading states, and structured error handling
+- 🏥 Contributed to healthcare modules including patient registration, appointment booking, and prescription management
 
----
+**Stack:** React.js · Redux Toolkit · JavaScript ES6+ · Tailwind CSS · Axios · Git
 
-### 🐛 [Issue Tracker – Issue Management System](https://github.com/RiyazR2/IssueTracker2)
+</details>
 
-> MongoDB · Express.js · React.js · Node.js · JWT · Google OAuth 2.0 · Tailwind CSS
+<details open>
+<summary><b>🤖 AI Model Evaluator — Freelance (Remote)</b> &nbsp;·&nbsp; <code>2025 – Present</code></summary>
 
-**Features:**
+<br/>
 
-- 🔐 Built full-stack **MERN application** with Google OAuth 2.0 and JWT authentication
-- 📊 Implemented public dashboard with authentication required only for CRUD operations
-- 🧩 Developed **25+ reusable React components** with real-time status updates
-- 👥 User assignments and markdown-supported issue descriptions
-- ☁️ Deployed on Vercel with serverless backend and Express REST API
-- 💾 Configured MongoDB Atlas, Passport.js authentication, and production environment settings
+- 📊 Evaluate **100+ AI coding agent responses per week** on JavaScript frontend tasks
+- 🔍 Assess **code correctness, reasoning depth, instruction-following, and hallucination detection**
+- 🐛 Cover bug fixing, refactoring, and feature development scenarios with detailed written feedback
 
-**[🔗 Live Demo](https://mern-issue-tracker-app.vercel.app/)** | **[📂 GitHub](https://github.com/RiyazR2/MERN_IssueTracker)**
+</details>
 
 ---
 
@@ -122,118 +152,95 @@
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,tailwind,html,css" />
+</p>
 
-**State Management & Forms**
+**AI / LLM Integration**
 
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_GPT--3.5-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_Llama_3.3_70B-F55036?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Function_Calling-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-1E293B?style=for-the-badge" />
+</p>
 
-**Backend (Familiar)**
+**Backend & Data** _(working knowledge)_
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-**Tools & Testing**
+**Testing, Build & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Parcel](https://img.shields.io/badge/Parcel-FFA333?style=for-the-badge&logo=parcel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,git,github,vite,vscode,postman,netlify,vercel" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiyazR2&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazR2&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RiyazR2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RiyazR2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyazR2&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyazR2&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Education
 
-- 🎓 **[Namaste React](https://namastedev.com/riyazr2/certificates/namaste-react)** – Namaste Dev (Akshay Saini)
-- 🎓 **[The Complete JavaScript Course](https://www.udemy.com/certificate/)** – Udemy (Jonas Schmedtmann)
-
----
-
-## 🎓 Education
-
-**A.G. Patil Institute of Technology, Solapur**
-**Bachelor of Technology (B.Tech) in Computer Science and Engineering**
-📅 July 2018 – July 2021 | 🏆 CGPA: 8.3/10
+|                                                                                             |                                                                                                                  |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 🎓 **Namaste React** — Namaste Dev (Akshay Saini)                                           | [View certificate](https://namastedev.com/riyazpathan193.rp/certificates/namaste-react)                          |
+| 🎓 **The Complete JavaScript Course** — Udemy (Jonas Schmedtmann)                           | [View certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-44cae38d-d3f1-4735-8eb5-55a0c0c0e5cd.jpg) |
+| 🏛️ **B.Tech, Computer Science & Engineering** — A.G. Patil Institute of Technology, Solapur | Jul 2018 – Jul 2021 · CGPA **8.3/10**                                                                            |
 
 ---
 
-## 🎯 Key Highlights
+## 🎯 Snapshot
 
 ```javascript
-const riyazPathan = {
+const riyaz = {
   role: "React Frontend Developer",
-  company: "Mphasis",
-  experience: "2+ years",
-  location: "Solapur, Maharashtra, India",
-
-  currentRole: "AI Model Evaluator (Freelance)",
+  experience: "2+ years (Mphasis · Client: Intas Pharmaceuticals)",
+  currently: "AI Model Evaluator (Freelance)",
+  location: "Pune, Maharashtra, India",
 
   expertise: {
-    frontend: ["React.js", "Redux Toolkit", "TypeScript", "Next.js"],
-    styling: ["Tailwind CSS", "CSS3", "Responsive Design"],
+    frontend: ["React.js", "Redux Toolkit", "JavaScript (ES6+)", "React Hooks"],
+    ai: ["OpenAI GPT-3.5", "Groq Llama 3.3 70B", "LLM Function Calling"],
+    styling: ["Tailwind CSS", "Responsive Design", "Accessibility"],
     performance: ["Code Splitting", "Lazy Loading", "Memoization"],
-    forms: ["React Hook Form", "Yup Validation", "Formik"],
     testing: ["Jest", "React Testing Library", "ESLint"],
-    backend (Familiar): ["Node.js", "Express.js", "MongoDB", "REST APIs"],
+    backendFamiliar: ["Node.js", "Express.js", "MongoDB", "REST APIs"],
   },
 
-  achievements: [
-    "Reduced bundle size by 82% (2.5MB → 450KB)",
-    "Improved load time from 8s → 1.5s",
-    "Built scalable Hospital Management System",
-    "2+ years Agile/Scrum experience",
-    "Evaluating 100+ AI coding responses/week",
+  impact: [
+    "82% smaller production bundle (2.5MB → 450KB)",
+    "Load time improved 8s → 1.5s",
+    "95% accuracy on LLM structured query parsing",
+    "100+ AI coding responses evaluated per week",
   ],
 
-  education: "B.Tech in CSE (CGPA: 8.3/10)",
-
-  certifications: ["Namaste React", "Complete JavaScript Course"],
-
-  currentFocus: [
-    "Performance Optimization",
-    "Clean Architecture",
-    "TypeScript",
-  ],
-  openTo: ["Frontend Developer Roles", "React Developer Positions"],
+  openTo: ["Frontend Developer", "React Developer", "React + AI Engineer"],
 };
 ```
 
 ---
 
 <div align="center">
-  <i>💼 Open to Frontend/React Developer roles | Let's build something amazing together!</i><br/><br/>
-  📧 <a href="mailto:riyazpathan193.rp@gmail.com">riyazpathan193.rp@gmail.com</a> ·
-  💼 <a href="https://linkedin.com/in/riyazr2">LinkedIn</a> ·
-  🌐 <a href="https://portfolior2.netlify.app/">Portfolio</a> ·
-  🐙 <a href="https://github.com/RiyazR2">GitHub</a> ·
-  📞 <a href="tel:+918657126901">+91 8657126901</a>
+
+### 💬 Let's build something great together
+
+<a href="mailto:riyazpathan193.rp@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/riyazr2/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://portfolior2.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E40AF,100:0F172A&height=110&section=footer" width="100%" />
+
 </div>
